@@ -7,11 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Swapnil; I am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Swapnil-FWDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="Swapnil-FWDeveloper" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/AnjaliDhanjode" target="blank"><img src="https://img.shields.io/twitter/follow/AnjaliDhanjode?logo=twitter&style=for-the-badge" alt="AnjaliDhanjode" /></a> </p> -->
@@ -103,6 +98,7 @@
 <!--
 <a href="https://github.com/Swapnil-FWDeveloper/github-readme-activity-graph"><img alt="Swapnil-FWDeveloper Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anjalidhanjode28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 -->
+
 <br/>
 <br/>
 
