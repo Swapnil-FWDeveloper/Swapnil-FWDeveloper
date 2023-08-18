@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](...)
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio]("https://64dfbcc76d12410ee3a939ec--glistening-horse-deadf7.netlify.app/)
+- 👨‍💻 All of my projects are available at Github and [Portfolio]("https://64dfbcc76d12410ee3a939ec--glistening-horse-deadf7.netlify.app/")
 
 - 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
 
