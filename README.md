@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning *React.js*
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Wta0-KN1-4Qj2XhzxTyd8kK9iw5xdhw6/view?usp=sharing" target="_blank"> Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/133j5SnSGqn_2w05c_pKYGW2JZWT8t1IR/view?usp=sharing" target="_blank"> Resume</a>
 
 
 - 👨‍💻 All of my projects are available at Github and <a href="https://64dfbf9cc1d70f138c20bf75--snazzy-granita-bee8fa.netlify.app/" target="_blank">Portfolio</a>
