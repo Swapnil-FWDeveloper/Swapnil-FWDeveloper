@@ -96,7 +96,7 @@
 
 <br/>
 <br/>
-<a href="https://github.com/Swapnil-FWDeveloper/github-readme-activity-graph"><img alt="Swapnil-FWDeveloper Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Swapnil-FWDeveloper&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/Swapnil-FWDeveloper/github-readme-activity-graph"><img alt="Swapnil-FWDeveloper Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Swapnil-FWDeveloper&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <!--
 <a href="https://github.com/Swapnil-FWDeveloper/github-readme-activity-graph"><img alt="Swapnil-FWDeveloper Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anjalidhanjode28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 -->
