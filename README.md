@@ -56,14 +56,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-
 ## 🚀 Featured Projects
 
 - 🔗 [**Swapnil Care**](https://v0-swapnilcare-ui-design.vercel.app/) – Modular healthcare UI using Tailwind, Firebase, Redux  
 - 🔗 [**Meesho Clone**](https://mesho-clone.vercel.app/) – Fully functional clone with cart, payments, filters, and team collaboration  
-- 🔗 [**Weather App – StyleCraze**](https://creative-yeot-85a53b.netlify.app/) – A weather forecast app with a sleek UI, featuring accurate articles & brand-specific recommendations for women  
+- 🔗 [**Weather App – StyleCraze**](https://creative-yeot-85a53b.netlify.app/) – A weather forecast app with a sleek UI, featuring accurate articles & brand-specific          recommendations for women  
 
 ---
 
