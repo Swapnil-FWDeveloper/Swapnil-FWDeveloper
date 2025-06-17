@@ -71,3 +71,11 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-FWDeveloper&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages">
 </p>
+
+## 📊 GitHub Stats & Total Commits
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil-FWDeveloper&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil-FWDeveloper&include_all_commits=true&hide=contribs,prs,issues,stars&hide_rank=true&show_icons=true&theme=radical&hide_border=true" alt="Total Commits">
+</p>
