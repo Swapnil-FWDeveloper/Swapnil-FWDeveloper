@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN | Next.js | Data Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/Swapnil-FWDeveloper/Swapnil-FWDeveloper/blob/main/assets/profile-illustration.png" alt="Developer illustration" width="200">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhWdET5IkI1gHr9Hjjv__QHJBH4pjFDdUr4Q&s" alt="Developer illustration" width="200">
 </p>
 
 <p align="center">
