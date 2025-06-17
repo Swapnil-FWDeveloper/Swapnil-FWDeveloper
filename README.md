@@ -18,10 +18,9 @@
 - Currently exploring **TypeScript** and **Next.js**
 
 ---
-🔗 Resume & Portfolio
-<p align="center"> <a href="https://swapnilshende.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"> </a> <a href="https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view" target="_blank"> <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"> </a> </p>
+
 ### 🌐 Connect With Me
----
+
 <p align="center">
   <a href="mailto:swapnilshende9284@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -32,10 +31,15 @@
   <a href="https://github.com/Swapnil-FWDeveloper" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://drive.google.com/file/d/1qkIakb7-zv_m-yiEGK6YWRVPVbQRt7l7/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
+  </a>
+  <a href="https://swapnil-fwdeveloper.github.io/Portfolio1/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfolio">
+  </a>
 </p>
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -62,11 +66,8 @@
 - 🔗 [**Swapnil Care**](https://v0-swapnilcare-ui-design.vercel.app/) – Modular healthcare UI using Tailwind, Firebase, Redux  
 - 🔗 [**Meesho Clone**](https://mesho-clone.vercel.app/) – Fully functional clone with cart, payments, filters, and team collaboration  
 - 🔗 [**Weather App – StyleCraze**](https://creative-yeot-85a53b.netlify.app/) – A weather forecast app with a sleek UI, featuring accurate articles & brand-specific          recommendations for women  
-
 ---
-
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-FWDeveloper&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages">
   <br />
