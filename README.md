@@ -72,10 +72,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-FWDeveloper&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages">
 </p>
 
-## 📊 GitHub Stats & Total Commits
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil-FWDeveloper&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Swapnil-FWDeveloper&include_all_commits=true&hide=contribs,prs,issues,stars&hide_rank=true&show_icons=true&theme=radical&hide_border=true" alt="Total Commits">
-</p>
+## 📊 My GitHub Stats
+<p align="center"> <a href="https://github.com/Swapnil-FWDeveloper/github-readme-stats"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil-FWDeveloper&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> </a> </p> <p align="center"> <a href="https://github.com/Swapnil-FWDeveloper/github-readme-streak-stats"> <img title="🔥 Streak Stats" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Swapnil-FWDeveloper&hide_border=true&theme=react&bg_color=0D1117" /> </a> </p> <p align="center"> <a href="https://github.com/Swapnil-FWDeveloper/github-readme-stats"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Swapnil-FWDeveloper&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/Total%20Commits-1000%2B-success?style=for-the-badge&logo=github" alt="Total Commits Badge"> </p>
